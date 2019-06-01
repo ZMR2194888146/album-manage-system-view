@@ -1,0 +1,12 @@
+export const CHECK_PHOTO = "display/checkPhoto";
+export const CLOSE_CHECK_PHOTO_BOX = "display/closeCheckPhoto";
+export const GET_PHOTO_LIST = "display/getPhotoList";
+export const HANDLE_LIST_RESULT = "display/handlePhotoList";
+export const CHANGE_PHOTO_TO_PUBLIC = "display/changePhotoToPublic";
+export const HANDLE_PHOTO_CHANGE_RESULT = "display/changeAlbumResult";
+export const CLEAR_PHOTO_LIST = "display/clearPhotoList";
+export const GET_PHOTO_LIST_BY_AID = "display/getPhotoListByAid";
+export const HANDLE_ALBUM_PHOTO_LIST = "display/handleAlbumPhotoList";
+export const CHANGE_ALBUM_DETAIL_STATUS = "display/changeAlbumDetailStatus";
+export const GET_COMMENTS_BY_PID = "display/getCommentsByPid";
+export const HANDLE_COMMENTS_LIST = "display/handleCommentsList";
